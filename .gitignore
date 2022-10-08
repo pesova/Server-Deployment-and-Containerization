@@ -30,4 +30,4 @@ htmlcov/
 
 .github/**
 
-.env_file
+.evn_file
